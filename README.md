@@ -1,6 +1,3 @@
-Here’s an updated README file that includes details about the origin of the problems and your progress in solving them:
-
-```markdown
 # 🎉 Easy Programming Problems 🎉
 
 Welcome to the **Easy Programming Problems** repository! This collection is designed to help beginners practice and enhance their coding skills through fun and interesting challenges. 💻✨
@@ -31,11 +28,11 @@ To start solving problems, follow these simple steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/easy-programming-problems.git
+   git clone https://github.com/AnujPratap-96/PS-Sprint-1-Solutions.git
    ```
 2. **Navigate to the project directory:**
    ```bash
-   cd easy-programming-problems
+   cd PS-Sprint-1-Solutions
    ```
 3. **Pick a problem** from the `problems/` directory and start coding! 🖥️💡
 
